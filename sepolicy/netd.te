@@ -1,0 +1,2 @@
+allow netd vendor_file:file getattr;
+allow netd kernel:system module_request;
